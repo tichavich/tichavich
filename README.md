@@ -8,4 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tichavich&show_icons=true&locale=en" alt="tichavich" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tichavich&" alt="tichavich" /></p>
+<h3 align="left">My Website:</h3>
+<p><a href="https://krumos.net/">Krumos.net</a></p>
+<p><a href="https://digischoolgo.com/">digischoolgo.com</a></p>
