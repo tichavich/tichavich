@@ -3,7 +3,7 @@
 
 ## 📒 Contract Me:
 <p>
-    <img src="icons/html-5.png" alt="html5" style="width:40px">
+    <a href="https://krumos.net/">Krumos.net</a> | <a href="https://digischoolgo.com/">digischoolgo.com</a>
 </p>
 
 ## 👨‍💻 Languages:
@@ -18,26 +18,19 @@
 </p>
 
 ## 🔧 Tools:
-
-
-<p align="left"> 
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.chrislmeyers.com/wp-content/uploads/2015/12/ubuntu.png" alt="linux" width="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*OARpkeBkn_Tw3vk8H769OQ.png" alt="docker" width="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql-300x300.png" alt="mysql" width="40" /> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<p>
+    <a href="https://ubuntu.com/"><img src="icons/ubuntu.png" alt="Ubuntu" style="width:40px;"></a>
+    <a href="https://aws.amazon.com"><img src="icons/Amazon_Web_Services.svg" alt="AWS" style="width:40px;"></a>
+    <a href="https://www.docker.com/"><img src="icons/Docker.svg" alt="Docker" style="width:40px;"></a>    
+    <a href="https://www.arduino.cc/"><img src="icons/arduino.svg" alt="Arduino" style="width:40px;"></a>
+    <a href="https://www.mysql.com/"><img src="icons/Mysql.png" alt="Mysql" style="width:40px;"></a>
+    <a href="https://postman.com"><img src="icons/Postman.png" alt="Postman" style="width:40px;"></a>
+    <a href="https://getbootstrap.com"><img src="icons/Bootstrap.svg" alt="Bootstrap" style="width:40px;"></a>
+    <a href="https://cakephp.org/"><img src="icons/Cake-PHP.png" alt="Cake PHP" style="width:40px;"></a>
+    <a href="https://laravel.com/"><img src="icons/Laravel.png" alt="Laravel" style="width:40px;"></a>
 </p>
 
-
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tichavich&show_icons=true&locale=en&layout=compact" alt="tichavich" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tichavich&show_icons=true&locale=en" alt="tichavich" /></p>
 
-
-## 🔗 My Website:
-<p><a href="https://krumos.net/">Krumos.net</a></p>
-<p><a href="https://digischoolgo.com/">digischoolgo.com</a></p>
