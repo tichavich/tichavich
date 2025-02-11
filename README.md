@@ -21,9 +21,9 @@
 <p>
     <a href="https://ubuntu.com/"><img src="icons/ubuntu.png" alt="Ubuntu" style="width:40px;"></a>
     <a href="https://aws.amazon.com"><img src="icons/Amazon_Web_Services.svg" alt="AWS" style="width:40px;"></a>
-    <a href="https://www.docker.com/"><img src="icons/Docker.svg" alt="Docker" style="width:40px;"></a>    
+    <a href="https://www.docker.com/"><img src="icons/Docker.svg" alt="Docker" style="width:60px;"></a>    
     <a href="https://www.arduino.cc/"><img src="icons/arduino.svg" alt="Arduino" style="width:40px;"></a>
-    <a href="https://www.mysql.com/"><img src="icons/Mysql.png" alt="Mysql" style="width:40px;"></a>
+    <a href="https://www.mysql.com/"><img src="icons/mysql.png" alt="Mysql" style="width:40px;"></a>
     <a href="https://postman.com"><img src="icons/Postman.png" alt="Postman" style="width:40px;"></a>
     <a href="https://getbootstrap.com"><img src="icons/Bootstrap.svg" alt="Bootstrap" style="width:40px;"></a>
     <a href="https://cakephp.org/"><img src="icons/Cake-PHP.png" alt="Cake PHP" style="width:40px;"></a>
