@@ -1,8 +1,12 @@
 <h1 align="center">Tichavich Chusakul (M05)</h1>
-<h3 align="center">Web Application 💻 🇹🇭</h3>
+<h3 align="center">Full Stack Web Developer 💻 🇹🇭</h3>
 
+## 📒 Contract Me:
+<p>
+    <a href="icons/html-5.png" target="_blank" alt="html5" style="width:40px">HTML5</a>
+</p>
 
-## ⌨️ Languages:
+## 👨‍💻 Languages:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -14,6 +18,7 @@
 </p>
 
 ## 🔧 Tools:
+
 
 <p align="left"> 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.chrislmeyers.com/wp-content/uploads/2015/12/ubuntu.png" alt="linux" width="40"/> </a> 
