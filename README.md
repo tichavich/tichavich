@@ -18,15 +18,15 @@
 </p>
 
 ## 🔧 Tools:
-<p>
-    <a href="https://ubuntu.com/" target="_blank" style="margin-right:1em;"><img src="icons/ubuntu.png" alt="Ubuntu" style="width:40px;"></a>
+<p>    
     <a href="https://aws.amazon.com" target="_blank" style="margin-right:1em;"><img src="icons/Amazon_Web_Services.svg" alt="AWS" style="width:40px;"></a>
-    <a href="https://www.docker.com/" target="_blank" style="margin-right:1em;"><img src="icons/Docker.svg" alt="Docker" style="width:100px;"></a>    
+    <a href="https://www.docker.com/" target="_blank" style="margin-right:1em;"><img src="icons/Docker.svg" alt="Docker" style="width:100px;"></a>
+    <a href="https://postman.com" target="_blank" style="margin-right:1em;"><img src="icons/Postman.png" alt="Postman" style="width:100px;"></a>
+    <a href="https://ubuntu.com/" target="_blank" style="margin-right:1em;"><img src="icons/ubuntu.png" alt="Ubuntu" style="width:40px;"></a>
     <a href="https://www.arduino.cc/" target="_blank" style="margin-right:1em;"><img src="icons/arduino.svg" alt="Arduino" style="width:40px;"></a>
     <a href="https://www.mysql.com/" target="_blank" style="margin-right:1em;"><img src="icons/mysql.png" alt="Mysql" style="width:40px;"></a>
-    <a href="https://postman.com" target="_blank" style="margin-right:1em;"><img src="icons/Postman.png" alt="Postman" style="width:100px;"></a>
     <a href="https://getbootstrap.com" target="_blank" style="margin-right:1em;"><img src="icons/Bootstrap.svg" alt="Bootstrap" style="width:40px;"></a>
-    <a href="https://cakephp.org/" target="_blank" style="margin-right:1em;"><img src="icons/Cake-PHP.png" alt="Cake PHP" style="width:40px;"></a>
+    <a href="https://cakephp.org/" target="_blank" style="margin-right:1em;"><img src="icons/Cake-PHP.png" alt="Cake PHP" style="width:60px;"></a>
     <a href="https://laravel.com/" target="_blank" style="margin-right:1em;"><img src="icons/Laravel.png" alt="Laravel" style="width:40px;"></a>
 </p>
 
