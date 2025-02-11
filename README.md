@@ -3,7 +3,7 @@
 
 ## 📒 Contract Me:
 <p>
-    <img src="icons/html-5.png" target="_blank" alt="html5" style="width:40px">
+    <img src="icons/html-5.png" alt="html5" style="width:40px">
 </p>
 
 ## 👨‍💻 Languages:
