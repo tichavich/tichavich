@@ -7,14 +7,14 @@
 </p>
 
 ## 👨‍💻 Languages:
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1UBNwRFaslvqt_G3Njw3pg.jpeg" alt="nodejs" width="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="php" width="40" /> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet core" width="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="icons/html-5.png" alt="html5" style="width:40px;"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="icons/css-3.png" alt="css3" style="width:40px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="icons/js.png" alt="js" style="width:40px;"></a>
+    <a href="https://nodejs.org" target="_blank"><img src="icons/Node.js.svg" alt="Node.js" style="width:40px;"></a>
+    <a href="https://www.php.net" target="_blank"><img src="icons/PHP.svg" alt="PHP" style="width:40px;"></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="icons/NETcore.svg" alt=".NET Core" style="width:40px;"></a>
+    <a href="https://www.python.org" target="_blank"><img src="icons/python.png" alt="Python" style="width:40px;"></a>
 </p>
 
 ## 🔧 Tools:
