@@ -15,6 +15,7 @@
     <a href="https://www.php.net" target="_blank" style="margin-right:1em;"><img src="icons/PHP.svg" alt="PHP" style="width:40px;"></a>
     <a href="https://dotnet.microsoft.com/" target="_blank" style="margin-right:1em;"><img src="icons/NETcore.svg" alt=".NET Core" style="width:40px;"></a>
     <a href="https://www.python.org" target="_blank" style="margin-right:1em;"><img src="icons/python.png" alt="Python" style="width:40px;"></a>
+    <a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%AA" target="_blank" style="margin-right:1em;"><img src="icons/CPlus.png" alt="C-Plus" style="width:40px;"></a>
 </p>
 
 ## 🔧 Tools:
